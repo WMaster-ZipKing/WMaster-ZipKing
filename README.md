@@ -14,6 +14,8 @@
 
 ✨ Your all-in-one 🤖 AI-powered file compression and extractor tool — limited-time free, no signup needed!
 
+🚀 **Ultra-fast**, 🔐 **secure**, 🧠 **smart** — with a clean, no-ads experience.
+
 ## 📦 Supported File Formats
 
 ### Popular Formats
@@ -90,6 +92,25 @@
   </tr>
 </table>
 
-🚀 **Ultra-fast**, 🔐 **secure**, 🧠 **smart** — with a clean, no-ads experience.
+## 🎓 Tutorials
 
-🌍 Try it now: [zipking.wmaster.com](https://zipking.wmaster.com/)
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin: 10px 20px;">
+    <a href="https://zipking.wmaster.com/open-files/open-rar-files.html">
+      <img src="https://img.shields.io/badge/Tutorial-How_to_Open_RAR_Files-F58025?style=for-the-badge" alt="RAR Tutorial"/><br/>
+      <span>How to Open RAR Files</span>
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px 20px;">
+    <a href="https://zipking.wmaster.com/file-compressor/zip-file-reducer.html">
+      <img src="https://img.shields.io/badge/Tutorial-ZIP_File_Size_Reducer-3A87F9?style=for-the-badge" alt="ZIP Reducer"/><br/>
+      <span>ZIP File Size Reducer</span>
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px 20px;">
+    <a href="https://zipking.wmaster.com/open-file-tips/send-large-files-via-email.html">
+      <img src="https://img.shields.io/badge/Tutorial-Send_Large_Files_via_Email-5A6AB1?style=for-the-badge" alt="Email Large Files"/><br/>
+      <span>Send Large Files via Email</span>
+    </a>
+  </div>
+</div>
