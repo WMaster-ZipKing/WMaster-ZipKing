@@ -10,12 +10,6 @@
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-Page-00D1AE?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/WMasterZipKing)
 &nbsp;
-[![TikTok](https://img.shields.io/badge/TikTok-Profile-00D1AE?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wmasterzipking)
-&nbsp;
-[![Threads](https://img.shields.io/badge/Threads-Profile-00D1AE?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@wmaster_zipking)
-&nbsp;
-[![Pinterest](https://img.shields.io/badge/Pinterest-Boards-00D1AE?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/wmasterzipking/)
-&nbsp;
 [![Bluesky](https://img.shields.io/badge/Bluesky-Profile-00D1AE?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/wmaster-zipking.bsky.social)
 ---
 
