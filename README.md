@@ -1,10 +1,14 @@
 # 👋 Hi, I'm [WMaster ZipKing](https://zipking.wmaster.com/)
 
-[![Website](https://img.shields.io/badge/Website-ZipKing-3A87F9?style=flat-square&logo=google-chrome&logoColor=white)](https://zipking.wmaster.com/) 
-[![X](https://img.shields.io/badge/X(Twitter)-Follow-3A87F9?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ZipkingOfficial) 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-3A87F9?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@WMasterZipKingofficial) 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-3A87F9?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wmaster_zipking/) 
-[![Facebook](https://img.shields.io/badge/Facebook-Page-3A87F9?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/WMasterZipKing) 
+[![Website](https://img.shields.io/badge/Website-ZipKing-3A87F9?style=plastic&logo=google-chrome&logoColor=white)](https://zipking.wmaster.com/)
+&nbsp;
+[![X](https://img.shields.io/badge/X(Twitter)-Follow-3A87F9?style=plastic&logo=twitter&logoColor=white)](https://x.com/ZipkingOfficial)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-3A87F9?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@WMasterZipKingofficial)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-3A87F9?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/wmaster_zipking/)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-Page-3A87F9?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/WMasterZipKing)
 
 ---
 
