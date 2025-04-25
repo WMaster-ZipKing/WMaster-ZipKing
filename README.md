@@ -6,7 +6,7 @@
 ✅ **One-click** to compress or extract your files.
 
 🖥️ **Clean interface**, super easy to use.  
-🚫 **No ads**, no hidden costs, just pure efficiency.  
+🚫 **No ads**, just pure efficiency.  
 🔒 Focused on **security** and **file safety**.
 
 🚀 **Fast**, 🔐 **secure**, and 🧠 **smart** — file compression made simple.
