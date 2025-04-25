@@ -1,16 +1,11 @@
 # 👋 Hi, I'm [WMaster ZipKing](https://zipking.wmaster.com/)
 
-[![Website](https://img.shields.io/badge/Website-ZipKing-00D1AE?style=flat&logo=google-chrome&logoColor=white)](https://zipking.wmaster.com/)
-&nbsp;
-[![X](https://img.shields.io/badge/X(Twitter)-Follow-00D1AE?style=flat&logo=twitter&logoColor=white)](https://x.com/ZipkingOfficial)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-00D1AE?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@WMasterZipKingofficial)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-00D1AE?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wmaster_zipking/)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-Page-00D1AE?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/WMasterZipKing)
-&nbsp;
-[![Bluesky](https://img.shields.io/badge/Bluesky-Profile-00D1AE?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/wmaster-zipking.bsky.social)
+[![Website](https://img.shields.io/badge/Website-ZipKing-3A87F9?style=flat-square&logo=google-chrome&logoColor=white)](https://zipking.wmaster.com/) 
+[![X](https://img.shields.io/badge/X(Twitter)-Follow-3A87F9?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ZipkingOfficial) 
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-3A87F9?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@WMasterZipKingofficial) 
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-3A87F9?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wmaster_zipking/) 
+[![Facebook](https://img.shields.io/badge/Facebook-Page-3A87F9?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/WMasterZipKing) 
+
 ---
 
 ✨ Your all-in-one 🤖 AI-powered file compression and extractor tool — limited-time free, no signup needed!
